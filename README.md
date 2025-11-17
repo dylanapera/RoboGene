@@ -48,7 +48,8 @@ The solution focuses exclusively on **Azure services**.
 - **Azure SDK for integration**
 
 ---
-
+## Contibutors
+Scott and Dylan
 ## **Example Query**
 ```sql
 SELECT ServiceType, ServiceCost
