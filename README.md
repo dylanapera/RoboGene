@@ -1,5 +1,4 @@
-# RoboGene
-# Azure Spend Support Chatbot
+# Azure Spend Support Chatbot | RoboGene
 
 ## **Overview**
 This chatbot is designed to assist **business users** in managing and understanding their **Azure spend**. It provides detailed breakdowns by:
